@@ -7,7 +7,9 @@
     box-sizing: border-box;
     font-family: Inter, sans-serif;
 }
-
+h1{
+    text-align: center;
+}
 body {
     line-height: 1.5;
     color: #333;
@@ -169,4 +171,14 @@ nav ul {
 }
 .card:hover{
     transform: scale(1.2);
+}
+.aaa img{
+    width: 200px;
+}
+.row{
+    display: flex;
+    margin: auto;
+}
+.bs-example{
+    padding: auto;
 }
